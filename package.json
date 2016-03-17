@@ -12,5 +12,6 @@
   },
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "homepage": "https://github.com/Loriens/Good-Weather#readme"
 }
