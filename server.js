@@ -1,8 +1,8 @@
 "use strict";
 
-var http = require("http");
-var request = require("request");
-var url = require("url"),
+var http = require("http"),
+  request = require("request"),
+  url = require("url"),
   server = new http.Server(),
   apiKey = require("./_settings.js").apiKey; //  Write your API key in "_settings.js".
 
