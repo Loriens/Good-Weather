@@ -1,0 +1,16 @@
+{
+	"name": "Good-Weather",
+  "description": "The app shows weather in your sity.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Loriens/Good-Weather.git"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
